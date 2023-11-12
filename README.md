@@ -18,7 +18,7 @@ An arctic, north-bluish clean and elegant Terminal.app color theme.
 
 ### Oh My ZSH
 
-``` bash
+```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
